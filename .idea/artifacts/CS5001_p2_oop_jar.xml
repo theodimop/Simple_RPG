@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS5001-p2-oop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS5001_p2_oop_jar</output-path>
+    <root id="archive" name="CS5001-p2-oop.jar">
+      <element id="module-output" name="CS5001-p2-oop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ExtendedLibraries/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ExtendedLibraries/hamcrest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

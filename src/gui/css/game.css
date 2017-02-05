@@ -1,0 +1,39 @@
+
+#menuPane {
+    -fx-background-color: black;
+    -fx-background-image: url("/gui/images/backgroundMenu.jpg");
+}
+#newGame {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+#menuLabels {
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+}
+#borderPane{
+    -fx-background-image: url("/gui/images/background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
+#gamePlayLabel {
+    -fx-font-size: 16px;
+    -fx-text-fill: green;
+    -fx-font-weight: bold;
+}
+#boardGridPane {
+    -fx-grid-lines-visible: true;
+    -fx-opacity: 0.5;
+    -fx-background-color: antiquewhite;
+}
+#gameLabelTitle {
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+#gameLabel {
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+}
+
